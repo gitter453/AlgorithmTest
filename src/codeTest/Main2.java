@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
 /*
 http://mir.mincoding.co.kr/enterprise/contest/miracom/279/problem/02
 https://blog.naver.com/cih468/221670953951
+커밋 2023-04-03
 */
 public class Main2 {
 

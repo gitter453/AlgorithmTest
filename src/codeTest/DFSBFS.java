@@ -1,3 +1,5 @@
+package codeTest;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -21,7 +23,7 @@ public class DFSBFS {
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
 
-		System.setIn(new FileInputStream("C:/Users/JOE/eclipse-workspace/codeTest/src/codeTest/input.txt"));
+		System.setIn(new FileInputStream("C:/Users/JOE/eclipse-workspace/codeTest/src/inputs/input.txt"));
 
 		Scanner sc = new Scanner(System.in);
 
@@ -222,6 +224,5 @@ class Cd {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-}
-[출처] 백준 - 4991. 로봇 청소기   [탐색(BFS) , DFS(순열)]  / JAVA|작성자 삼각별 프로그래밍
+} 
 

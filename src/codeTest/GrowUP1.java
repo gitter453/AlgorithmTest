@@ -21,7 +21,7 @@ public class GrowUP1 {
 		public static void main(String[] args) {
 			
 			try {
-				File file = new File("C:/Users/JOE/eclipse-workspace/codeTest/src/codeTest/input1.txt");
+				File file = new File("C:/Users/JOE/eclipse-workspace/codeTest/src/inputs/input1.txt");
 				
 				FileReader fReader = new FileReader(file);
 				BufferedReader bReader = new BufferedReader(fReader);

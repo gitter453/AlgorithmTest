@@ -13,7 +13,7 @@ public class Main_bak {
 		 */
 				
 		try {
-			String filepath = "C:/Users/JOE/eclipse-workspace/codeTest/src/codeTest/input.txt";
+			String filepath = "C:/Users/JOE/eclipse-workspace/codeTest/src/inputs/input.txt";
 			
 			FileInputStream fileStream = new FileInputStream(filepath);
 			

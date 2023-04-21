@@ -11,7 +11,7 @@ public class Main_dikstra {
 public static void main(String[] args) {
 		
 		try {
-			File file = new File("C:/Users/JOE/eclipse-workspace/codeTest/src/codeTest/input.txt");
+			File file = new File("C:/Users/JOE/eclipse-workspace/codeTest/src/inputs/input.txt");
 			
 			
 			FileReader fReader = new FileReader(file);
